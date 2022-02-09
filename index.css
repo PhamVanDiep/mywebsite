@@ -26,13 +26,9 @@
     .button_wrap{
         height: 12%;
         margin-top: 3%;
-        padding-left: 5%;
-        padding-right: 5%;
     }
     .cal_btn{
-        width: 15%;
-        margin-left: 2%;
-        margin-right: 2%;
+        width: 18%;
     }
 }
 @media only screen and (min-width: 600px) {
